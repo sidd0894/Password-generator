@@ -1,11 +1,10 @@
 # Random Password Generator
-
 This password generator creates strong, secure, and random passwords. You can specify both the length of the password and the number of passwords you want to generate.
 
 ## Features
-1. Customizable Password Length: Specify the length of the password (minimum 4 characters).
-2. Multiple Password Generation: Generate multiple passwords at once.
-3. Copy to Clipboard: Easily copy any generated password for convenient use.
+1. **Customizable Password Length**: Specify the length of the password (minimum 4 characters).
+2. **Multiple Password Generation**: Generate multiple passwords at once.
+3. **Copy to Clipboard**: Easily copy any generated password for convenient use.
 
 ## How to run this project?
 To run this follow the steps given below-
