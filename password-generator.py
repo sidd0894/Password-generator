@@ -45,7 +45,7 @@ def generatePass(length):
 
 
 def main():
-    print('NOTE - Leave empty to use default values.')
+    print('\n(NOTE - Leave empty to use default values.)')
 
     length = getUserInput('Length of password (default is 8): ', 8, 4)
     numberOfPass = getUserInput('Number of passwords to generate (default is 1): ', 1, 1)
